@@ -11,6 +11,10 @@ The company also seeks to help software engineers transitioning into Software En
 - Statistics on Woman in [Technology](https://www.computerscience.org/resources/women-in-computer-science/#:~:text=The%20Current%20State%20of%20Women%20in%20Computer%20Science&text=Yet%2C%20women%20only%20earn%2018,field%20in%20the%20United%20States)
 
 
+  
+<p align="center" ><em>"Science, for me, gives a partial explanation for life. In so far as it goes, it is based on fact, experience and experiment."</em> </p>
+<p align="center" >— Rosalind Franklin</p>
+
 <!--
 **oakHalo/oakHalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - Link Instagram thing? 
