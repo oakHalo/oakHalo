@@ -29,6 +29,10 @@ The company also seeks to help software engineers transitioning into Software En
 --- Lean into Analytics 
 --- Main Languages (Javascript, Python, potentially expand to C# or Java or Ruby on Rails... IDK) 
 
+TODO: 
+- after >20K clients, make business cards? 
+- Make LLC or consider other type of business type? 
+
 
 Here are some ideas to get you started:
 
