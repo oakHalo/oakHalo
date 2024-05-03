@@ -14,7 +14,9 @@ The company also seeks to help software engineers transitioning into Software En
 <!--
 **oakHalo/oakHalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - Link Instagram thing? 
-- Youtube videos - one per week might be good (make the shorts from segments of the long form videos & post)
+- Youtube videos 
+    - one per week might be good (make the shorts from segments of the long form videos & post)
+    - Include inspiration quotes from here & update regularly https://www.yourtango.com/quotes/women-in-science-quotes
 - Post projects that are relevent or basic skills sets required
 - Consider a FOR WOMAN CODING BOOK for ENTRY LEVEL that pairs to the lessons in the Youtube Channel 
 --- Include "you can to projects that teach you how to build websites & longer form videos for those types of projects"? 
