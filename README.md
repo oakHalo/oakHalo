@@ -7,6 +7,9 @@ The company also seeks to help software engineers transitioning into Software En
 - We are looking to collaborate with groups who aim to dedicate their work to growing technical skills in woman (or other non majority groups) in technology and causes that help the planet. 
 - Reach me at nelson@oakhalo.com
 
+### Resources
+- Statistics on Woman in [Technology](https://www.computerscience.org/resources/women-in-computer-science/#:~:text=The%20Current%20State%20of%20Women%20in%20Computer%20Science&text=Yet%2C%20women%20only%20earn%2018,field%20in%20the%20United%20States)
+
 
 <!--
 **oakHalo/oakHalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
